@@ -1,9 +1,9 @@
 <?php
 define('ROOT_PART', Root_part());
 define('APIKEY', 'AIzaSyCVkRcSiF0KmLCwmoo4edtw0vnSykCvFcc');
-define('GJ_CODE', 'US');
-define('SITE_NAME', 'y2b');
-define('TITLENAME', 'y2b');
+define('GJ_CODE', 'HK');
+define('SITE_NAME', '像素彼岸');
+define('TITLENAME', '像素彼岸');
 define('EN2DEKEY', '32123wwerwer323tgfdgds');
 define('EMAIL', '1334347212@qq.com');
 define('NAME', 'admin');
